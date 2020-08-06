@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo cp /home/soporte/respaldos/sudo cp /home/soporte/respaldos/$DATE.tar.gz /media/usb/
+$DATE.tar.gz /media/usb/
